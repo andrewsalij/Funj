@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+src/funj/__init__.py
+src/funj/funj.py
+src/funj.egg-info/PKG-INFO
+src/funj.egg-info/SOURCES.txt
+src/funj.egg-info/dependency_links.txt
+src/funj.egg-info/requires.txt
+src/funj.egg-info/top_level.txt

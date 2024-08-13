@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "funj"
+version = "1.0.0"
+dependencies = [
+    "numpy",
+    "matplotlib"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
