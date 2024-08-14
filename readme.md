@@ -37,7 +37,7 @@ To print Funj tokens, simply initialize a `FunjPrinter`, whose docstring is repr
 See `\examples` for examples of use. Let the Funj printer go fjjjj! 
 
 
-# Dislaimers
+# Disclaimers
 
 By use of Funj, no warranties are made (see LICENSE).
 
