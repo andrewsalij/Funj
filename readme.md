@@ -18,7 +18,7 @@ pip install .
 In a stunning rebuke to the labor theory of value, Funj helps us question whether the labor used in its creation or your effort in 
 reading this readme produced any value. But what is value? That is a question for the philosophers. 
 
-To print Funj tokens, simply initialize a `FunjPrinter`, whose docstring is reproducted below
+To print Funj tokens, simply initialize a `FunjPrinter`, whose docstring is reproduced below
 
 ```python
 '''
